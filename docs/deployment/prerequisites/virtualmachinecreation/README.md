@@ -70,7 +70,7 @@ Follow the below steps(click on the picture for a larger image):
 #### Prepping the VM
 Your Virtual Linux Machine will need the following dependecies installed:
 -   Install Git
--   Install Bazel
+-   Install Bazel 0.19
 -   Install the Google Cloud SDK
 -   Install NPM
 You may install these on your own but for the sake of this tutorial. a script has been provided that 
